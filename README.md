@@ -1,1 +1,4 @@
-# magister2
+# magister
+
+“This is a line from RStudio”
+
